@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isFalse"
+			],
+			[
+				"water",
+				"waterYearly"
+			],
+			[
+				"episode",
+				"episodeReviews"
+			],
+			[
+				"numb",
+				"numberEntered"
+			],
+			[
+				"twi",
+				"twitterHandle"
+			],
+			[
+				"m",
+				"myNumber"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/THE/Desktop/javascript/response.html",
+		"/C/Users/THE/Desktop/javascript/0.08_switch.js",
+		"/C/Users/THE/Desktop/javascript/0.05_else_if.js",
+		"/C/Users/THE/Desktop/javascript/0.04_boolean.js",
+		"/C/Users/THE/Desktop/javascript/0.03_strings.js",
+		"/C/Users/THE/Desktop/javascript/0.02_var.js",
+		"/C/Users/THE/Desktop/javascript/0.01_integers.js",
+		"/C/Users/THE/Desktop/csslibrary/0.05_shapes.html",
+		"/C/Users/THE/Desktop/csslibrary/0.05_shapes.css",
+		"/C/Users/THE/Desktop/csslibrary/0.04_css_margins_and_padding.html",
+		"/C/Users/THE/Desktop/csslibrary/0.04_css_margins_and_padding.css",
+		"/C/Users/THE/Desktop/csslibrary/0.03_css_ids.html",
+		"/C/Users/THE/Desktop/csslibrary/0.03_css_ids.css",
+		"/C/Users/THE/Desktop/csslibrary/0.02_css_classes.html",
+		"/C/Users/THE/Desktop/csslibrary/0.02_css_classes.css",
+		"/C/Users/THE/Desktop/csslibrary/0.01_css_setup.css",
+		"/C/Users/THE/Desktop/csslibrary/0.01_css_setup.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.11_forms.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.09_articles_and_headers.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.10_nav_footer.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.08_sections.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.07_divs.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.06_tables.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.04_links.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.05_images.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.03_lists.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.02_h&p_tags.html",
+		"/C/Users/THE/Desktop/htmlbasics/0.01_helloworld.html",
+		"/C/Users/THE/Desktop/node/C6_LetsRunSomeJavascript/Starter/app.js",
+		"/C/Users/THE/Desktop/intro_code/name.html",
+		"/C/Users/THE/Desktop/intro_code/objects.js",
+		"/C/Users/THE/Desktop/intro_code/arrays.js",
+		"/C/Users/THE/Desktop/intro_code/loops.js",
+		"/C/Users/THE/Desktop/intro_code/builtInFunction.js",
+		"/C/Users/THE/Desktop/intro_code/functions.js",
+		"/C/Users/THE/Desktop/intro_code/101.js",
+		"/C/Users/THE/Desktop/intro_code/strings.js",
+		"/C/Users/THE/Desktop/intro_code/booleans.js",
+		"/C/Users/THE/Desktop/intro_code/conditionals.js",
+		"/C/Users/THE/Desktop/intro_code/matt.js",
+		"/C/Users/THE/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ickson"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "0.01_css_setup.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
